@@ -7,15 +7,19 @@ Swim Meet application is a very complex application that can keep track of Club,
 Application used txt file as primary source of database. Moreover user can perform CRUD operation on each section. special sounds were added to application in order to make it easy for the user's navigation.
 
 ## Menu
-<img src="images/menu.PNG" />
-<br/>
+<img src="images/menu.PNG" /><br/>
+
 ## Event
 <img src="images/Event.PNG" /><br/>
+
 ## Swimmer Registration
 <img src="images/swimmer.PNG" /><br/>
+
 ## Club
 <img src="images/Club.PNG" /><br/>
+
 ## Coach
 <img src="images/1.PNG" /> <br/>
+
 ## Swim Meet
 <img src="images/2.PNG" /> <br/>
